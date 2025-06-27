@@ -79,8 +79,8 @@ Para validar que se cumplan las políticas de reintento, intervalos y timeouts s
 
 Para revisar más información sobre las instalaciones y pasos intermedios se sugiere consultar las siguientes fuentes:
 
-[^1]: [Instalación de Maven](https://maven.apache.org/install.html)
-[^2]: [Instalación de Podman y creación de Podman Machine](https://podman.io/docs/installation)
-[^3]: [Ejecución de Podman Compose](https://podman--desktop-io.translate.goog/docs/compose/running-compose?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
-[^4]: [Instalación de Temporal.io](https://temporal.io/setup/install-temporal-cli)
+- [Instalación de Maven](https://maven.apache.org/install.html)
+- [Instalación de Podman y creación de Podman Machine](https://podman.io/docs/installation)
+- [Ejecución de Podman Compose](https://podman--desktop-io.translate.goog/docs/compose/running-compose?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+- [Instalación de Temporal.io](https://temporal.io/setup/install-temporal-cli)
 
